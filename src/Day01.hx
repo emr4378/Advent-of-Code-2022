@@ -7,7 +7,7 @@
 
 import Utils;
 
-class Day1
+class Day01
 {
 	public static function solve()
 	{

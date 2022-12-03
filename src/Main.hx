@@ -1,11 +1,13 @@
 import Day01;
 import Day02;
+import Day03;
 
 class Main
 {
 	public static function main()
 	{
-		Day1.solve();
-		Day2.solve();
+		Day01.solve();
+		Day02.solve();
+		Day03.solve();
 	}
 }

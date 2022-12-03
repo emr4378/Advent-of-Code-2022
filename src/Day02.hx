@@ -33,7 +33,7 @@ enum abstract ThrowShape(Int) to Int
 	}
 }
 
-class Day2
+class Day02
 {
 	public static function solve()
 	{
