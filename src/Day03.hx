@@ -1,5 +1,5 @@
 /*
- * Day 3: Day 3: Rucksack Reorganization
+ * Day 3: Rucksack Reorganization
  * https://adventofcode.com/2022/day/3
  * 
  * Copyright (c) 2022 Eduardo Rodrigues (emr4378)
