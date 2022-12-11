@@ -2,6 +2,7 @@ import Day01;
 import Day02;
 import Day03;
 import Day04;
+import Day05;
 
 class Main
 {
@@ -11,5 +12,6 @@ class Main
 		Day02.solve();
 		Day03.solve();
 		Day04.solve();
+		Day05.solve();
 	}
 }
