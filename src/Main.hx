@@ -11,13 +11,13 @@ class Main
 {
 	public static function main()
 	{
-		// Day01.solve();
-		// Day02.solve();
-		// Day03.solve();
-		// Day04.solve();
-		// Day05.solve();
-		// Day06.solve();
-		// Day07.solve();
+		Day01.solve();
+		Day02.solve();
+		Day03.solve();
+		Day04.solve();
+		Day05.solve();
+		Day06.solve();
+		Day07.solve();
 		Day08.solve();
 	}
 }
